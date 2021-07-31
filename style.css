@@ -1,0 +1,40 @@
+body {
+            display: flex;
+            flex-direction: column;
+
+            box-sizing: border-box;
+
+            max-width: 585px;
+
+            padding: 20px;
+
+            font-family: 'Roboto';
+
+            font-size: 24px;
+            margin: auto;
+        }
+
+        code {
+            display: block;
+            margin: 20px 30px;
+        }
+
+        h1 {
+            font-size: 3rem;
+        }
+
+        h2 {
+            font-size: 2rem;
+            margin-bottom: 15px;
+            margin-left: 35px;
+
+        }
+        
+        p {
+            margin-top: 0px;
+            margin-left: 50px;
+        }
+
+        a {
+            color: red;
+        }
